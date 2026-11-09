@@ -1,0 +1,113 @@
+PRIVACY POLICY — IMMERSIVE LAB VR
+
+Effective Date: November 9, 2026
+Last Updated: November 9, 2026
+Developer / Data Controller: Tobiya Game Studio ("we," "us," or "our")
+Application: Immersive Lab VR ("the Application" or "the Service")
+
+
+1. INTRODUCTION
+
+Tobiya Game Studio respects your privacy and is committed to protecting the information processed when you use Immersive Lab VR on the Meta Horizon platform and Meta Quest devices. This Privacy Policy explains what data we collect, process, and store, why we process it, how it is protected, and how you can exercise your data rights, including requesting complete deletion of your data.
+
+This Privacy Policy applies directly to the Immersive Lab VR application and supplements, without superseding or modifying, the Meta Developer Data Use Policy (DDUP).
+
+
+2. INFORMATION WE PROCESS AND COLLECT
+
+To deliver an interactive, multilingual virtual reality training simulation and operate your AI learning companion (Tobi), we process the following categories of data:
+
+A. Meta Horizon User Data (Platform Data)
+
+When you launch Immersive Lab VR on a Meta Quest device, we access limited platform data via the Meta Horizon Platform SDK to authenticate your session and provide core functionality:
+
+- Account Entitlement & App-Scoped User ID: A unique, anonymized platform identifier provided by Meta to verify that you hold a valid license to access the Application and to associate your saved simulation progress with your profile.
+- Basic Profile Information: Your Meta display username or avatar preferences, strictly if needed to personalize your in-app lab workspace.
+
+B. Device User Data (Spatial, Sensor, and Audio Data)
+
+Immersive Lab VR relies on hardware sensors built into your Meta Quest headset and controllers to enable real-time spatial interactions:
+
+- Headset and Controller Tracking (6DoF): Positional and rotational data of your headset and controllers to render your movement accurately inside the virtual laboratory. This data is processed locally in real time on your device and is never stored on external servers.
+- Abstracted Hand-Tracking Data: Skeletal joint positions and gesture data derived from your device cameras to allow you to manipulate anatomical models, assemble mechanical engine components, and interact with snap sockets using your hands. Hand-tracking coordinates are processed ephemerally in local memory and are neither recorded nor transmitted off your device.
+- Microphone and Voice Data (Optional — AI Companion Interaction): If you choose to speak with Tobi (your AI learning companion), audio input from your headset microphone is captured solely while voice interaction is active. Audio streams are processed transiently to convert speech into text queries in your selected language (English, French, or Amharic) and generate Tobi's educational response. We do not permanently store raw voice recordings tied to your personal identity.
+
+C. Application Usage and Learning Data
+
+To support your educational progress and improve the simulation modules (Human Anatomy, Mechanical Engineering, and Space Exploration), we process:
+
+- Simulation Progress & Preferences: Completed lab steps, module scores, comfort settings, and your selected language preference (English, French, or Amharic).
+- AI Companion Context Logs: Text prompts, simulation states, and procedural actions (such as assembling a part or identifying an anatomical structure) shared with Tobi during a session so Tobi can provide accurate, real-time diagnostic feedback.
+- Aggregated Telemetry & Crash Diagnostics: De-identified, anonymized performance metrics (such as frame rates, module load times, and error logs) used to diagnose technical bugs and optimize VR comfort.
+
+
+3. HOW AND WHY WE USE YOUR DATA
+
+We process User Data and Device User Data strictly for the following permitted purposes:
+
+1. Providing Core Simulation Functionality: Enabling 3D spatial interactions, hand-tracked tool manipulation, entitlement checks, and saving your progress across training modules.
+2. Powering Tobi (AI Learning Companion): Analyzing your current step in a simulation alongside your questions to provide adaptive, context-aware hints and educational guidance in English, French, or Amharic.
+3. Localization and Accessibility: Remembering your preferred interface and voice-over language and comfort configurations.
+4. Application Maintenance and Improvement: Using aggregated, de-identified, or anonymized analytics to fix bugs, improve physics and snap-socket accuracy, and enhance educational outcomes.
+
+Prohibited Data Uses
+
+In strict compliance with the Meta Developer Data Use Policy:
+
+- We never sell, rent, or trade your User Data or Device User Data to third parties.
+- We never use your data for third-party targeted advertising or cross-app behavioral tracking.
+- We never attempt to re-identify, de-anonymize, or reverse-engineer anonymized data or combine Meta User Data with external third-party databases.
+
+
+4. DATA STORAGE, SHARING, AND THIRD-PARTY SERVICE PROVIDERS
+
+- Local Storage: Most preferences, language settings, and training checkpoints are stored locally on your Meta Quest device.
+- Third-Party Service Providers: We only share limited data with trusted service providers necessary to operate the Application:
+    - Meta Platforms Technologies: Operates the Meta Horizon OS, platform entitlement verification, and system-level device tracking.
+    - Unity Technologies: Provides the underlying 3D engine and anonymized crash/diagnostic reporting.
+    - AI Processing Providers: If cloud-based AI inference or speech-to-text processing is used to power Tobi's real-time responses, only de-identified session context and transient audio/text inputs are transmitted via encrypted connections (HTTPS/TLS). Our service providers are contractually bound to process data solely to deliver the requested response and are prohibited from retaining or using your data for independent purposes.
+
+
+5. DATA RETENTION AND HOW TO REQUEST DATA DELETION
+
+We retain User Data only for as long as necessary to provide the Application's services to you or as required by applicable law.
+
+How to Delete Your Data
+
+You have the right to request the complete deletion of any data associated with your use of Immersive Lab VR at any time:
+
+1. Local Device Data: You can clear all locally stored progress, settings, and cache immediately by uninstalling Immersive Lab VR from your Meta Quest headset or clearing Application Data in your Meta Quest system settings.
+2. Server / Account Data Deletion Request: To request the deletion of any cloud-synced progress, logs, or App-Scoped User ID records held by Tobiya Game Studio, choose either of the following paths:
+    - By Email: Send an email to oliyad@tobiyastudio.com with the subject line "Immersive Lab VR - Data Deletion Request." Please include your Meta Horizon username or App-Scoped User ID (found in your in-app settings menu).
+    - Via Meta Settings: You may also trigger a data deletion callback or revoke application permissions directly through your Meta Account Center / Meta Horizon Privacy Settings.
+3. Processing Timeframe: Upon receiving your request, we will permanently delete all data associated with your account without undue delay, and no later than 30 days from the date of receipt, and send you confirmation once completed.
+
+
+6. DATA SECURITY
+
+We implement industry-standard technical and organizational security measures to protect User Data against unauthorized access, alteration, disclosure, or destruction. All data transmitted between your Meta Quest headset and any external service provider is encrypted in transit using TLS/SSL protocols. Access to backend systems is strictly restricted to authorized engineering personnel at Tobiya Game Studio.
+
+
+7. CHILDREN'S PRIVACY AND AGE REQUIREMENTS
+
+Immersive Lab VR complies with Meta's Age Group Self-Certification and Youth Requirements as well as applicable child privacy laws (including COPPA and GDPR-K). We do not knowingly collect personal information from children under the age of 13 (or the minimum legal age in your jurisdiction) without verifiable parental consent managed through Meta's Family Center and parent-managed Meta accounts. If we discover that personal data from an unauthorized minor has been inadvertently collected, we will delete it immediately.
+
+
+8. INTERNATIONAL DATA TRANSFERS AND YOUR PRIVACY RIGHTS
+
+Tobiya Game Studio operates from Addis Ababa, Ethiopia, and may utilize cloud infrastructure located in the European Union or the United States. Whenever data is transferred internationally, we adhere to legally recognized safeguards, including Standard Contractual Clauses (SCCs) and Meta's International Data Transfer Addendums where applicable. Depending on your jurisdiction (such as the EEA, UK, or California), you have the right to access, rectify, restrict, or erase your personal data by contacting us using the details below.
+
+
+9. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy periodically to reflect new simulation modules, platform features, or regulatory requirements. Any updates will be posted at https://tobiyastudio.com with an updated "Last Updated" date. Continued use of Immersive Lab VR following changes constitutes acceptance of the revised policy.
+
+
+10. CONTACT US
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data handling practices, please contact us at:
+
+Studio Name: Tobiya Game Studio
+Location: Addis Ababa, Ethiopia
+Email: oliyad@tobiyastudio.com
+Website: https://tobiyastudio.com
